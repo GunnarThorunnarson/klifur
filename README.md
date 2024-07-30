@@ -21,16 +21,6 @@
 `<br>` er html sem virkar einsog enter, sniðugt að nota stundum þegar maður vill aukalegt lóðrétt bil.
 
 #### Að bæta við collapsed section
-
-```
-<details>
-<summary>Vika 1</summary>
-Innihald fyrir viku 1 ...
-</details>
-
-```
-Sýnidæmi:
-
 <details>
 <summary>Vika 1</summary>
 
@@ -40,6 +30,13 @@ Innihald fyrir viku 1 ...
 
 </details>
 
+```
+<details>
+<summary>Vika 1</summary>
+Innihald fyrir viku 1 ...
+</details>
+
+```
 
 #### Að bæta við link á skrá eða vefsíðu 
 `[texti](linkur)`
