@@ -1,3 +1,6 @@
+# Markdown og Githbub
+
+Ath. hægt er að bæta html í markdown skjal.
 
 ### Github 
 1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
@@ -14,6 +17,19 @@
 ` # texti` <br>
 `## texti`
 
+#### Að bæta við collapsed section
+
+<details>
+<summary>Titill</summary>
+
+Innihald
+
+</details>
+
+
+
+### að 
+
 #### Að bæta við link á skrá eða vefsíðu 
 `[texti](linkur)`
 
@@ -23,7 +39,7 @@
 
 ### Myndbönd
 
-#### Að bæta við myndalink á youtube myndband:
+#### leið 1: Að bæta við myndalink á youtube myndband:
 Myndalinkur á youtube myndband:  <!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
 
 `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
@@ -33,7 +49,7 @@ Dæmi: <br>
 
 <br>
 
-#### Að bæta við myndbandi (Drag & Drop) sem er vistað og spilað frá Github.
+#### leið 2: Að bæta við myndbandi (Drag & Drop) sem er vistað og spilað frá Github.
 [Dragðu myndband](https://i.stack.imgur.com/vxyiV.gif) (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md. Sjá nánar [How to Add an Embedded Video to Github Readme Files](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
 
 > The file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image, `[![Title](Image URL)](Link URL)`. 
