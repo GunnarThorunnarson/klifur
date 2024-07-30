@@ -18,11 +18,11 @@
 #### Að bæta við collapsed section
 
 <details>
-<summary># Fyrirsögn</summary>
+<summary>Vika 1</summary>
 
 <br>
 
-Innihald
+Innihald fyrir viku 1 ...
 
 </details>
 
