@@ -1,7 +1,5 @@
 # Markdown og Githbub
 
-Ath. hægt er að bæta html í markdown skjal.
-
 ### Github 
 1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
 1. [Búa til repository með readme.md](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
@@ -20,7 +18,9 @@ Ath. hægt er að bæta html í markdown skjal.
 #### Að bæta við collapsed section
 
 <details>
-<summary>Titill</summary>
+<summary># Fyrirsögn</summary>
+
+<br>
 
 Innihald
 
@@ -31,7 +31,7 @@ Innihald
 `[texti](linkur)`
 
 #### Að bæta við ljósmynd
-- leið 1: html: `<img src="linkur á ljósmynd" width="50%" height="50%">`  (prósentur eru fyrir breidd og hæð á mynd)
+- leið 1: **html**: `<img src="linkur á ljósmynd" width="50%" height="50%">`  (prósentur eru fyrir breidd og hæð á mynd)
 - leið 2: markdown: `![myndaheiti](linkur á ljósmynd)`   (ekki hægt að breyta breidd og hæð)
 
 ### Myndbönd
@@ -55,6 +55,8 @@ Dæmi: <br>
 <!-- 
 `[![Myndband](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)`
 -->
+
+> Ath. hægt er að nota/bæta við html tögum í markdown skrá.
 
 
 
