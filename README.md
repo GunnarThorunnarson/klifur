@@ -16,7 +16,7 @@
 `## texti`
 
 
-#### <br>  (html)
+#### `<br>` (html)
 
 `<br>` er html sem virkar einsog enter, sniðugt að nota stundum þegar maður vill aukalegt lóðrétt bil.
 
@@ -24,12 +24,12 @@
 
 ```
 <details>
-<summary>Titill</summary>
-Innihald 
+<summary>Vika 1</summary>
+Innihald fyrir viku 1 ...
 </details>
 
 ```
-Dæmi:
+Sýnidæmi:
 
 <details>
 <summary>Vika 1</summary>
