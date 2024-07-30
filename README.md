@@ -1,4 +1,4 @@
-# Markdown og Githbub
+# Markdown og Github
 
 ### Github 
 1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
@@ -15,7 +15,22 @@
 ` # texti` <br>
 `## texti`
 
+
+#### <br>  (html)
+
+`<br>` er html sem virkar einsog enter, sniðugt að nota stundum þegar maður vill aukalegt lóðrétt bil.
+
 #### Að bæta við collapsed section
+`<details>
+<summary>Titill</summary>
+
+<br>
+
+Innihald 
+
+</details>`
+
+Dæmi:
 
 <details>
 <summary>Vika 1</summary>
