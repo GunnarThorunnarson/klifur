@@ -4,14 +4,8 @@
 1. [Búa til repository með readme.md](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
 1. [Búa til möppu fyrir ljósmyndir](https://www.youtube.com/watch?v=FvCsnUgAdWA&ab_channel=RichMcCue)
 1. [Upload ljósmyndir](https://www.youtube.com/watch?v=ATVm6ACERu8&ab_channel=RichMcCue) 
-1. Skrifa skýrslu í readme.md (sjá neðar)
 
-<!--
-> [að búa til Github profile](https://www.youtube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether)
--->
-
-
-#### Að skrifa markdown td. í `readme.md` eða wiki.
+#### Að skrifa markdown (readme.md, wiki)
 - [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia)
 - [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -24,22 +18,20 @@
 `[texti](linkur)`
 
 #### Að bæta við ljósmynd
-`<img src="linkur á ljósmynd" width="50%" height="50%">`  prósentur eru fyrir breidd og hæð á mynd.
+- leið 1: html: `<img src="linkur á ljósmynd" width="50%" height="50%">`  (prósentur eru fyrir breidd og hæð á mynd)
+- leið 2: markdown: `![myndaheiti](linkur á ljósmynd)`   (ekki hægt að breyta breidd og hæð)
 
-**markdown**, ekki hægt að breyta breidd og hæð: <br>
-`![myndaheiti](linkur á ljósmynd)`
+### Myndbönd
 
-
-#### Myndalinkur á youtube myndband 
-<!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
+#### Að bæta við myndalink á youtube myndband:
+Myndalinkur á youtube myndband:  <!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
 
 `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
 
 Dæmi: <br>
 `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
 
-
-#### Að bæta við myndbandi (Drag & Drop) sem er vistað í Github
+#### Að bæta við myndbandi (Drag & Drop) sem er vistað og spilað í Github.
 [Dragðu myndband](https://i.stack.imgur.com/vxyiV.gif) (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md. Sjá nánar [How to Add an Embedded Video to Github Readme Files](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
 
 > The file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image, `[![Title](Image URL)](Link URL)`. 
