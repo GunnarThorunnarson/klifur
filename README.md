@@ -27,9 +27,6 @@ Innihald
 </details>
 
 
-
-### að 
-
 #### Að bæta við link á skrá eða vefsíðu 
 `[texti](linkur)`
 
