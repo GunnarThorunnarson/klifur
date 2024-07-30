@@ -59,10 +59,7 @@ Myndalinkur á youtube myndband:  <!-- https://orbitingweb.com/blog/view-youtube
 Dæmi: <br>
 `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
 
-#### Að spila youtube video í html, [sjá nánar](https://www.w3schools.com/html/html_youtube.asp)
-
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+> Github leyfir ekki embedded (iframe) video í markdown af öryggisástæðum
 
 #### Að bæta við myndbandi (Drag & Drop) sem er vistað og spilað frá Github
 [Dragðu myndband](https://i.stack.imgur.com/vxyiV.gif) (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md. Sjá nánar [How to Add an Embedded Video to Github Readme Files](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
