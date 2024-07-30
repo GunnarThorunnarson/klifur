@@ -21,15 +21,14 @@
 `<br>` er html sem virkar einsog enter, sniðugt að nota stundum þegar maður vill aukalegt lóðrétt bil.
 
 #### Að bæta við collapsed section
-`<details>
+
+```
+<details>
 <summary>Titill</summary>
-
-<br>
-
 Innihald 
+</details>
 
-</details>`
-
+```
 Dæmi:
 
 <details>
