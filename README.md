@@ -7,6 +7,8 @@
 1. [Upload ljósmyndir](https://www.youtube.com/watch?v=ATVm6ACERu8&ab_channel=RichMcCue) 
 
 
+<br>
+
 ## Helstu aðgerðir
 
 > Ath. hægt er að nota/bæta við html í markdown skrá.
