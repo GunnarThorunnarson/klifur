@@ -31,7 +31,9 @@ Myndalinkur á youtube myndband:  <!-- https://orbitingweb.com/blog/view-youtube
 Dæmi: <br>
 `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
 
-#### Að bæta við myndbandi (Drag & Drop) sem er vistað og spilað í Github.
+<br>
+
+#### Að bæta við myndbandi (Drag & Drop) sem er vistað og spilað frá Github.
 [Dragðu myndband](https://i.stack.imgur.com/vxyiV.gif) (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md. Sjá nánar [How to Add an Embedded Video to Github Readme Files](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
 
 > The file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image, `[![Title](Image URL)](Link URL)`. 
